@@ -125,7 +125,7 @@
         "slugify": "^1.4.0",
         "source-map-support": "^0.5.19",
         "sshpk": "^1.16.1",
-        "stripe": "^8.51.0",
+        "stripe": "^8.182.0",
         "typescript": "^4.4.2",
         "uuid": "^3.3.2",
         "validator": "^10.11.0",
