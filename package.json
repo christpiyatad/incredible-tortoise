@@ -92,7 +92,7 @@
         "micromatch": "^4.0.1",
         "migrate-mongo": "^8.1.4",
         "mime": "^2.4.4",
-        "mkdirp": "^0.5.1",
+        "mkdirp": "^0.5.2",
         "moment": "^2.29.1",
         "mongoose": "^5.11.13",
         "mongoose-delete": "^0.5.2",
