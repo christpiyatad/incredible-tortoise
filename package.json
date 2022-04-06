@@ -93,7 +93,7 @@
         "migrate-mongo": "^8.1.4",
         "mime": "^2.4.4",
         "mkdirp": "^0.5.1",
-        "moment": "^2.29.1",
+        "moment": "^2.29.2",
         "mongoose": "^5.11.13",
         "mongoose-delete": "^0.5.2",
         "morgan": "^1.9.1",
