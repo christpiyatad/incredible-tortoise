@@ -39,7 +39,7 @@
         "@sanity/block-tools": "^1.149.0",
         "@sanity/cli": "^0.142.0",
         "@sanity/client": "^0.141.6",
-        "@sanity/core": "^0.142.1",
+        "@sanity/core": "^0.145.0",
         "@sanity/export": "^1.149.17",
         "@sanity/import": "^1.149.16",
         "@sanity/schema": "^1.149.0",
