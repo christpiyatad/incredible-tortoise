@@ -38,7 +38,7 @@
         "@octokit/rest": "^18.0.9",
         "@sanity/block-tools": "^1.149.0",
         "@sanity/cli": "^0.142.0",
-        "@sanity/client": "^0.141.6",
+        "@sanity/client": "^4.0.0",
         "@sanity/core": "^0.142.1",
         "@sanity/export": "^1.149.17",
         "@sanity/import": "^1.149.16",
@@ -129,7 +129,7 @@
         "typescript": "^4.4.2",
         "uuid": "^3.3.2",
         "validator": "^10.11.0",
-        "webpack": "^4.29.6",
+        "webpack": "^5.0.0",
         "webpack-node-externals": "^1.7.2",
         "winston": "^3.2.1",
         "winston-sentry-log": "^1.0.19"
