@@ -41,7 +41,7 @@
         "@sanity/client": "^0.141.6",
         "@sanity/core": "^0.142.1",
         "@sanity/export": "^1.149.17",
-        "@sanity/import": "^1.149.16",
+        "@sanity/import": "^3.37.7",
         "@sanity/schema": "^1.149.0",
         "@sentry/node": "^6.1.0",
         "@stackbit/artisanal-names": "^1.0.1",
