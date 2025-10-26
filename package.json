@@ -36,7 +36,7 @@
         "@octokit/app": "^3.0.0",
         "@octokit/request": "^4.1.0",
         "@octokit/rest": "^18.0.9",
-        "@sanity/block-tools": "^1.149.0",
+        "@sanity/block-tools": "^3.70.0",
         "@sanity/cli": "^0.142.0",
         "@sanity/client": "^0.141.6",
         "@sanity/core": "^0.142.1",
