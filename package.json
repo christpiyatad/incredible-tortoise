@@ -128,7 +128,7 @@
         "stripe": "^8.51.0",
         "typescript": "^4.4.2",
         "uuid": "^3.3.2",
-        "validator": "^10.11.0",
+        "validator": "^13.15.20",
         "webpack": "^4.29.6",
         "webpack-node-externals": "^1.7.2",
         "winston": "^3.2.1",
